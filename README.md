@@ -1,1 +1,1 @@
-# 17.-Dicee-Game-challenge
+# The-Dicee-Game
